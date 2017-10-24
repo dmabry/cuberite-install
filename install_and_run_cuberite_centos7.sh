@@ -7,4 +7,4 @@ make -j 2
 cd cuberite/Server
 echo "Don't forget to open TCP port 8080 and 25565!"
 sleep 3
-screen ./Cuberite
+./Cuberite
